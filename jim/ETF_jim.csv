@@ -1,72 +1,72 @@
-﻿0050	Multiple Regression						
-0050	Logistic Regression	0.587	10.93	0.667	img/Model_picture/Logistic Regression\0050_Logistic_Confusion_matrix.png	656.01	img/Model_picture/Logistic Regression\0050_Logistic_GA.png
-0050	Random Forest						
-0050	LSTM						
-0051	Multiple Regression						
-0051	Logistic Regression	0.572	10.16	0.603	img/Model_picture/Logistic Regression\0051_Logistic_Confusion_matrix.png	609.79	img/Model_picture/Logistic Regression\0051_Logistic_GA.png
-0051	Random Forest						
-0051	LSTM						
-0052	Multiple Regression						
-0052	Logistic Regression	0.5396	12.42	0.5873	img/Model_picture/Logistic Regression\0052_Logistic_Confusion_matrix.png	745.11	img/Model_picture/Logistic Regression\0052_Logistic_GA.png
-0052	Random Forest						
-0052	LSTM						
-0053	Multiple Regression						
-0053	Logistic Regression	0.5358	10.5	0.6191	img/Model_picture/Logistic Regression\0053_Logistic_Confusion_matrix.png	630.17	img/Model_picture/Logistic Regression\0053_Logistic_GA.png
-0053	Random Forest						
-0053	LSTM						
-0054	Multiple Regression						
-0054	Logistic Regression	0.5498	12.37	0.5793	img/Model_picture/Logistic Regression\0054_Logistic_Confusion_matrix.png	741.91	img/Model_picture/Logistic Regression\0054_Logistic_GA.png
-0054	Random Forest						
-0054	LSTM						
-0055	Multiple Regression						
-0055	Logistic Regression	0.5781	13.03	0.6269	img/Model_picture/Logistic Regression\0055_Logistic_Confusion_matrix.png	781.71	img/Model_picture/Logistic Regression\0055_Logistic_GA.png
-0055	Random Forest						
-0055	LSTM						
-0056	Multiple Regression						
-0056	Logistic Regression	0.5158	10.98	0.5634	img/Model_picture/Logistic Regression\0056_Logistic_Confusion_matrix.png	658.84	img/Model_picture/Logistic Regression\0056_Logistic_GA.png
-0056	Random Forest						
-0056	LSTM						
-0057	Multiple Regression						
-0057	Logistic Regression	0.5734	14.67	0.632	img/Model_picture/Logistic Regression\0057_Logistic_Confusion_matrix.png	880.17	img/Model_picture/Logistic Regression\0057_Logistic_GA.png
-0057	Random Forest						
-0057	LSTM						
-0058	Multiple Regression						
-0058	Logistic Regression	0.6129	12.41	0.656	img/Model_picture/Logistic Regression\0058_Logistic_Confusion_matrix.png	744.3	img/Model_picture/Logistic Regression\0058_Logistic_GA.png
-0058	Random Forest						
-0058	LSTM						
-0059	Multiple Regression						
-0059	Logistic Regression	0.5697	12.2	0.5976	img/Model_picture/Logistic Regression\0059_Logistic_Confusion_matrix.png	732.1	img/Model_picture/Logistic Regression\0059_Logistic_GA.png
-0059	Random Forest						
-0059	LSTM						
-006201	Multiple Regression						
-006201	Logistic Regression	0.5871	13.24	0.6429	img/Model_picture/Logistic Regression\006201_Logistic_Confusion_matrix.png	794.13	img/Model_picture/Logistic Regression\006201_Logistic_GA.png
-006201	Random Forest						
-006201	LSTM						
-006203	Multiple Regression						
-006203	Logistic Regression	0.6125	13.98	0.656	img/Model_picture/Logistic Regression\006203_Logistic_Confusion_matrix.png	838.61	img/Model_picture/Logistic Regression\006203_Logistic_GA.png
-006203	Random Forest						
-006203	LSTM						
-006204	Multiple Regression						
-006204	Logistic Regression	0.5712	13.63	0.632	img/Model_picture/Logistic Regression\006204_Logistic_Confusion_matrix.png	817.55	img/Model_picture/Logistic Regression\006204_Logistic_GA.png
-006204	Random Forest						
-006204	LSTM						
-006208	Multiple Regression						
-006208	Logistic Regression	0.5933	9.79	0.667	img/Model_picture/Logistic Regression\006208_Logistic_Confusion_matrix.png	587.21	img/Model_picture/Logistic Regression\006208_Logistic_GA.png
-006208	Random Forest						
-006208	LSTM						
-00690	Multiple Regression						
-00690	Logistic Regression	0.6457	10.34	0.773	img/Model_picture/Logistic Regression\00690_Logistic_Confusion_matrix.png	620.32	img/Model_picture/Logistic Regression\00690_Logistic_GA.png
-00690	Random Forest						
-00690	LSTM						
-00692	Multiple Regression						
-00692	Logistic Regression	0.7364	9.53	0.8421	img/Model_picture/Logistic Regression\00692_Logistic_Confusion_matrix.png	571.69	img/Model_picture/Logistic Regression\00692_Logistic_GA.png
-00692	Random Forest						
-00692	LSTM						
-00701	Multiple Regression						
-00701	Logistic Regression	0.6328	8.87	0.7692	img/Model_picture/Logistic Regression\00701_Logistic_Confusion_matrix.png	531.99	img/Model_picture/Logistic Regression\00701_Logistic_GA.png
-00701	Random Forest						
-00701	LSTM						
-00713	Multiple Regression						
-00713	Logistic Regression	0.6521	10.52	0.7895	img/Model_picture/Logistic Regression\00713_Logistic_Confusion_matrix.png	631.17	img/Model_picture/Logistic Regression\00713_Logistic_GA.png
-00713	Random Forest						
-00713	LSTM						
+"0050	Multiple Regression						"
+"0050	Logistic Regression	0.587	10.93	0.667	img/Model_picture/Logistic Regression/0050_Logistic_Confusion_matrix.png	656.01	img/Model_picture/Logistic Regression/0050_Logistic_GA.png"
+"0050	Random Forest						"
+"0050	LSTM						"
+"0051	Multiple Regression						"
+"0051	Logistic Regression	0.572	10.16	0.603	img/Model_picture/Logistic Regression/0051_Logistic_Confusion_matrix.png	609.79	img/Model_picture/Logistic Regression/0051_Logistic_GA.png"
+"0051	Random Forest						"
+"0051	LSTM						"
+"0052	Multiple Regression						"
+"0052	Logistic Regression	0.5396	12.42	0.5873	img/Model_picture/Logistic Regression/0052_Logistic_Confusion_matrix.png	745.11	img/Model_picture/Logistic Regression/0052_Logistic_GA.png"
+"0052	Random Forest						"
+"0052	LSTM						"
+"0053	Multiple Regression						"
+"0053	Logistic Regression	0.5358	10.5	0.6191	img/Model_picture/Logistic Regression/0053_Logistic_Confusion_matrix.png	630.17	img/Model_picture/Logistic Regression/0053_Logistic_GA.png"
+"0053	Random Forest						"
+"0053	LSTM						"
+"0054	Multiple Regression						"
+"0054	Logistic Regression	0.5498	12.37	0.5793	img/Model_picture/Logistic Regression/0054_Logistic_Confusion_matrix.png	741.91	img/Model_picture/Logistic Regression/0054_Logistic_GA.png"
+"0054	Random Forest						"
+"0054	LSTM						"
+"0055	Multiple Regression						"
+"0055	Logistic Regression	0.5781	13.03	0.6269	img/Model_picture/Logistic Regression/0055_Logistic_Confusion_matrix.png	781.71	img/Model_picture/Logistic Regression/0055_Logistic_GA.png"
+"0055	Random Forest						"
+"0055	LSTM						"
+"0056	Multiple Regression						"
+"0056	Logistic Regression	0.5158	10.98	0.5634	img/Model_picture/Logistic Regression/0056_Logistic_Confusion_matrix.png	658.84	img/Model_picture/Logistic Regression/0056_Logistic_GA.png"
+"0056	Random Forest						"
+"0056	LSTM						"
+"0057	Multiple Regression						"
+"0057	Logistic Regression	0.5734	14.67	0.632	img/Model_picture/Logistic Regression/0057_Logistic_Confusion_matrix.png	880.17	img/Model_picture/Logistic Regression/0057_Logistic_GA.png"
+"0057	Random Forest						"
+"0057	LSTM						"
+"0058	Multiple Regression						"
+"0058	Logistic Regression	0.6129	12.41	0.656	img/Model_picture/Logistic Regression/0058_Logistic_Confusion_matrix.png	744.3	img/Model_picture/Logistic Regression/0058_Logistic_GA.png"
+"0058	Random Forest						"
+"0058	LSTM						"
+"0059	Multiple Regression						"
+"0059	Logistic Regression	0.5697	12.2	0.5976	img/Model_picture/Logistic Regression/0059_Logistic_Confusion_matrix.png	732.1	img/Model_picture/Logistic Regression/0059_Logistic_GA.png"
+"0059	Random Forest						"
+"0059	LSTM						"
+"006201	Multiple Regression						"
+"006201	Logistic Regression	0.5871	13.24	0.6429	img/Model_picture/Logistic Regression/006201_Logistic_Confusion_matrix.png	794.13	img/Model_picture/Logistic Regression/006201_Logistic_GA.png"
+"006201	Random Forest						"
+"006201	LSTM						"
+"006203	Multiple Regression						"
+"006203	Logistic Regression	0.6125	13.98	0.656	img/Model_picture/Logistic Regression/006203_Logistic_Confusion_matrix.png	838.61	img/Model_picture/Logistic Regression/006203_Logistic_GA.png"
+"006203	Random Forest						"
+"006203	LSTM						"
+"006204	Multiple Regression						"
+"006204	Logistic Regression	0.5712	13.63	0.632	img/Model_picture/Logistic Regression/006204_Logistic_Confusion_matrix.png	817.55	img/Model_picture/Logistic Regression/006204_Logistic_GA.png"
+"006204	Random Forest						"
+"006204	LSTM						"
+"006208	Multiple Regression						"
+"006208	Logistic Regression	0.5933	9.79	0.667	img/Model_picture/Logistic Regression/006208_Logistic_Confusion_matrix.png	587.21	img/Model_picture/Logistic Regression/006208_Logistic_GA.png"
+"006208	Random Forest						"
+"006208	LSTM						"
+"00690	Multiple Regression						"
+"00690	Logistic Regression	0.6457	10.34	0.773	img/Model_picture/Logistic Regression/00690_Logistic_Confusion_matrix.png	620.32	img/Model_picture/Logistic Regression/00690_Logistic_GA.png"
+"00690	Random Forest						"
+"00690	LSTM						"
+"00692	Multiple Regression						"
+"00692	Logistic Regression	0.7364	9.53	0.8421	img/Model_picture/Logistic Regression/00692_Logistic_Confusion_matrix.png	571.69	img/Model_picture/Logistic Regression/00692_Logistic_GA.png"
+"00692	Random Forest						"
+"00692	LSTM						"
+"00701	Multiple Regression						"
+"00701	Logistic Regression	0.6328	8.87	0.7692	img/Model_picture/Logistic Regression/00701_Logistic_Confusion_matrix.png	531.99	img/Model_picture/Logistic Regression/00701_Logistic_GA.png"
+"00701	Random Forest						"
+"00701	LSTM						"
+"00713	Multiple Regression						"
+"00713	Logistic Regression	0.6521	10.52	0.7895	img/Model_picture/Logistic Regression/00713_Logistic_Confusion_matrix.png	631.17	img/Model_picture/Logistic Regression/00713_Logistic_GA.png"
+"00713	Random Forest						"
+"00713	LSTM						"
