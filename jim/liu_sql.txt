@@ -7,30 +7,3 @@ Picture_withGA varchar(255),
 GA_picture varchar(255)
 );
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(Stockcode,Method,Fitnessvalue_withoutGA,Fitnessvalue_withGA,Picture_withGA,GA_picture) values ("%s","%s",%f,%f,"%s","%s")
