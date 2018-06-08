@@ -1,0 +1,5 @@
+create table text_mining_table(
+title varchar(255),
+url varchar(255),
+picture varchar(255)
+);
